@@ -1,0 +1,24 @@
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\bin\Debug\AptekaDB.exe.config
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\bin\Debug\AptekaDB.exe
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\bin\Debug\AptekaDB.pdb
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\obj\Debug\AptekaDB.Form1.resources
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\obj\Debug\AptekaDB.Properties.Resources.resources
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\obj\Debug\AptekaDB.csproj.GenerateResource.Cache
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\obj\Debug\AptekaDB.exe
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\obj\Debug\AptekaDB.pdb
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\bin\Debug\Coursework.mdf
+C:\Users\Oleg\Desktop\AptekaDB\AptekaDB\bin\Debug\Coursework_log.ldf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\bin\Debug\AptekaDB.exe.config
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\obj\Debug\AptekaDB.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\obj\Debug\AptekaDB.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\bin\Debug\Coursework.mdf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\bin\Debug\Coursework_log.ldf
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\bin\Debug\AptekaDB.exe
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\bin\Debug\AptekaDB.pdb
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\obj\Debug\AptekaDB.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\obj\Debug\AptekaDB.Form1.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\obj\Debug\AptekaDB.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2015\Projects\AptekaDB\AptekaDB\obj\Debug\AptekaDB.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\Работа\Apteka_DB\AptekaDB\bin\Debug\AptekaDB.exe.config
+C:\Users\Owner\Desktop\Работа\Apteka_DB\AptekaDB\obj\Debug\AptekaDB.exe
+C:\Users\Owner\Desktop\Работа\Apteka_DB\AptekaDB\obj\Debug\AptekaDB.pdb
